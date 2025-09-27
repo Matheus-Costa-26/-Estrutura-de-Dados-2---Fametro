@@ -1,1 +1,2 @@
-TESTE DE TEXTO
+QT.1 - A modelagem conceitual é uma etapa fundamental no projeto de sistemas de informação, pois define a estrutura lógica dos dados e seus relacionamentos, independentemente de implementações técnicas, garantindo independência de dados no qual proporciona flexibilidade para alterações no esquema físico sem impactar a lógica de negócio, portabilidade entre diferentes SGBDs e manutenção na evolução do sistema e facilitando a comunicação entre usuários e desenvolvedores ao servir como uma linguagem comum não técnica, permitindo a validação de requisitos e a redução de informações desnecessárias por meio de diagramas conceituais que representam visualmente as regras de negócio e os relacionamentos entre entidades.
+
